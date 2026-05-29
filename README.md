@@ -75,29 +75,19 @@ how to profile and build a game.
   </tr>
   <tr>
     <td style="padding: 6px 12px;"><b>PIONER</b></td>
-    <td style="padding: 6px 12px;">Oct 2021 — Present</td>
-    <td style="padding: 6px 12px;">TechLead</td>
+    <td style="padding: 6px 12px;">Mart 2022 — Present</td>
+    <td style="padding: 6px 12px;">Middle developer</td>
     <td style="padding: 6px 12px;">
       <a href="https://pionergame.com">Website</a>
     </td>
   </tr>
    <tr>
     <td style="padding: 6px 12px;"><b>PIONER</b></td>
-    <td style="padding: 6px 12px;">May 2020 — Oct 2021</td>
-    <td style="padding: 6px 12px;">Middle Developer</td>
+    <td style="padding: 6px 12px;">Fev 2021 — Fev 2022</td>
+    <td style="padding: 6px 12px;">Junior developer</td>
     <td style="padding: 6px 12px;">
       <a href="https://pionergame.com">Website</a>
     </td>
-  </tr>
-    </tr>
-   <tr>
-    <td style="padding: 6px 12px;"><b>Orange Cast</b></td>
-    <td style="padding: 6px 12px;">2019 — 2021</td>
-    <td style="padding: 6px 12px;">Middle Developer</td>
-    <td style="padding: 6px 12px;">
-      <a href="https://store.steampowered.com/app/1194050/Orange_Cast_SciFi_Space_Action_Game/">Steam</a>
-    </td>
-  </tr>
 </table>
 
 </div>
