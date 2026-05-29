@@ -1,7 +1,8 @@
-<img src="https://raw.githubusercontent.com/RID00RID/RID00RID/refs/heads/main/github-header-banner.png">
+<img width="1700" height="460" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/3d879ef3-ca94-4bf0-ac8a-21a247a10559" />
 
-My name is Dmitry, I love game development and creating programs.
-I can program in C#/C++/BP for Unreal Engine 4/5 and Unity:
+My name is Alexandr, I love game development and creating programs.
+I can program in C#/C++/BP for Unreal Engine 4/5
+:
 
 
 ## Tech Stack 🚀
