@@ -1,16 +1,103 @@
-## Hi there 👋
+<img src="https://raw.githubusercontent.com/RID00RID/RID00RID/refs/heads/main/github-header-banner.png">
 
-<!--
-**Garzilka/Garzilka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Dmitry, I love game development and creating programs.
+I can program in C#/C++/BP for Unreal Engine 4/5 and Unity:
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack 🚀
+### Game Development 🎮
+
+* Unreal Engine 4 / 5 (C++ & Blueprints)
+* Unity (C#)
+
+### Core Skills 🧠
+
+* Animation Programming
+* AI (Behavior Trees, EQS, Tasks, Services)
+* UI (UMG /Slate /CommonUI /MVVM)
+* VFX (Niagara, Particle Systems)
+* Audio Systems (Sound Cues, Mixers)
+* Custom Editor Tools (UE4/UE5)
+
+### Engineering ⚙️
+
+* Clean & Maintainable Code
+* Refactoring & Architecture
+* Performance Profiling & Optimization
+* Automation Testing
+
+### Tools 🛠
+
+* Git / GitHub
+* Jenkins (CI/CD)
+* Perforce
+* Visual Studio / VS Code
+* Unreal Build from Source
+
+### Custom Tools & Editors 🛠
+
+I build Unreal Engine tools to speed up production and improve workflow:
+
+- Quest Editor systems
+- State Machine editors
+- Gameplay data editors
+- Slate / UMG-based tools
+- Engine customization tools
+
+
+I know the base architecture of the Unreal Engine, the main methods of refactoring,
+how to profile and build a game.
+
+## Skills <img src="https://user-images.githubusercontent.com/34418187/202911895-f5e9690b-9772-4c3a-8ba6-d6ad2039e3b4.gif" width="30px">
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
+<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> 
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> 
+<img alt="Visual Studio" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/> 
+<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<img alt="Jenkins" src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"/> 
+<img alt="Unreal Engine" src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"/>
+<img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
+
+
+
+
+<div align="center">
+
+<h2>List of game development projects</h2>
+</p>
+<table style="width:700px; border-collapse: collapse; text-align: left;">
+  <tr>
+    <th style="border-bottom: 2px solid #ddd; padding: 6px 12px;">Project</th>
+    <th style="border-bottom: 2px solid #ddd; padding: 6px 12px;">Period</th>
+    <th style="border-bottom: 2px solid #ddd; padding: 6px 12px;">Role</th>
+    <th style="border-bottom: 2px solid #ddd; padding: 6px 12px;">Description</th>
+  </tr>
+  <tr>
+    <td style="padding: 6px 12px;"><b>PIONER</b></td>
+    <td style="padding: 6px 12px;">Oct 2021 — Present</td>
+    <td style="padding: 6px 12px;">TechLead</td>
+    <td style="padding: 6px 12px;">
+      <a href="https://pionergame.com">Website</a>
+    </td>
+  </tr>
+   <tr>
+    <td style="padding: 6px 12px;"><b>PIONER</b></td>
+    <td style="padding: 6px 12px;">May 2020 — Oct 2021</td>
+    <td style="padding: 6px 12px;">Middle Developer</td>
+    <td style="padding: 6px 12px;">
+      <a href="https://pionergame.com">Website</a>
+    </td>
+  </tr>
+    </tr>
+   <tr>
+    <td style="padding: 6px 12px;"><b>Orange Cast</b></td>
+    <td style="padding: 6px 12px;">2019 — 2021</td>
+    <td style="padding: 6px 12px;">Middle Developer</td>
+    <td style="padding: 6px 12px;">
+      <a href="https://store.steampowered.com/app/1194050/Orange_Cast_SciFi_Space_Action_Game/">Steam</a>
+    </td>
+  </tr>
+</table>
+
+</div>
