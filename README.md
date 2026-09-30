@@ -1,93 +1,49 @@
 <img width="1700" height="460" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/3d879ef3-ca94-4bf0-ac8a-21a247a10559" />
 
-My name is Alexandr, I love game development and creating programs.
-I can program in C#/C++/BP for Unreal Engine 4/5
-:
+# Hi there, I'm Alexander Polyakov 👋
+### Senior Unreal Engine / C++ Developer
 
+> I am an experienced software engineer specializing in **Unreal Engine (C++ / Blueprints)**, gameplay systems architecture, and tool development. With a strong track record of bringing features from initial architectural design to production-ready implementation, I focus on writing clean, scalable, and performance-optimized code — without blueprint spaghetti.
 
-## Tech Stack 🚀
-### Game Development 🎮
+---
 
-* Unreal Engine 4 / 5 (C++ & Blueprints)
-* Unity (C#)
+### 🛠️ Tech Stack & Expertise
 
-### Core Skills 🧠
+| Domain | Technologies & Skills |
+| :--- | :--- |
+| **Game Engine** | Unreal Engine (UE4 / UE5), Blueprints Architecture, Custom Editor Tools (UE4/UE5) |
+| **Core Languages** | C++, QML, SQL, Shell Scripting (Bash) |
+| **AI & Systems** | AI (Behavior Trees, EQS, Tasks, Services), Software Architecture, OOP / SOLID |
+| **UI & Audio** | UI (UMG, Slate, CommonUI, MVVM), Audio Systems (Sound Cues, Mixers) |
+| **Animation & VFX** | Animation Programming, VFX (Niagara, Particle Systems) |
+| **DevOps & Tools** | Git / GitHub, Jenkins, Docker, CI/CD pipelines, Performance Profiling & Optimization |
+| **Environment** | Qt, STL, Windows, Linux, Visual Studio, VS Code |
 
-* Animation Programming
-* AI (Behavior Trees, EQS, Tasks, Services)
-* UI (UMG /Slate /CommonUI /MVVM)
-* VFX (Niagara, Particle Systems)
-* Audio Systems (Sound Cues, Mixers)
-* Custom Editor Tools (UE4/UE5)
+---
 
-### Engineering ⚙️
+### 💼 Commercial Experience
 
-* Clean & Maintainable Code
-* Refactoring & Architecture
-* Performance Profiling & Optimization
-* Automation Testing
+| Project | Period | Role & Contribution |
+| :--- | :--- | :--- |
+| **Pioner** | *03/2021 – Present* | Full-cycle C++ & gameplay systems architecture, feature design from scratch to production, performance optimizations, and technical leadership. |
+| **Orange Cast** | *12/2020 – 03/2021* | Gameplay programming, system optimization, framework architecture, and custom tools implementation. |
+| **ExoTanks** | *06/2020 – 11/2020* | Core systems engineering, network-ready gameplay mechanics, and technical asset optimization. |
 
-### Tools 🛠
+---
 
-* Git / GitHub
-* Jenkins (CI/CD)
-* Perforce
-* Visual Studio / VS Code
-* Unreal Build from Source
+### 📁 Featured Open-Source Projects (Repositories)
 
-### Custom Tools & Editors 🛠
+| Repository | Tech Stack | Description |
+| :--- | :--- | :--- |
+| 🎒 [One](https://github.com/Garzilka/One) | `UE` `C++` | Robust, modular, and optimized data-driven inventory framework. |
+| 🗺️ [PlayerNavigationSystem](https://github.com/Garzilka/PlayerNavigationSystem) | `UE` `C++` | Advanced gameplay navigation component providing modular pathfinding and tracking. |
+| 🎬 [AddTrackToSequences](https://github.com/Garzilka/AddTrackToSequences) | `UE` `C++` | Editor utility tool that automates adding custom tracking data directly into Sequencer. |
+| 🖼️ [RandomizePhoto](https://github.com/Garzilka/RandomizePhoto) | `C++` `Qt` `QML` | Desktop utility for image dataset augmentation via smart photo mixing. |
+| 💬 [Nomad](https://github.com/Garzilka/Nomad) | `C++` `Qt` `QML` | Lightweight desktop client featuring text messaging and real-time voice chat. |
 
-I build Unreal Engine tools to speed up production and improve workflow:
+---
 
-- Quest Editor systems
-- State Machine editors
-- Gameplay data editors
-- Slate / UMG-based tools
-- Engine customization tools
+### 💼 Connect with me
 
-
-I know the base architecture of the Unreal Engine, the main methods of refactoring,
-how to profile and build a game.
-
-## Skills <img src="https://user-images.githubusercontent.com/34418187/202911895-f5e9690b-9772-4c3a-8ba6-d6ad2039e3b4.gif" width="30px">
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
-<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> 
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> 
-<img alt="Visual Studio" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/> 
-<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-<img alt="Jenkins" src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"/> 
-<img alt="Unreal Engine" src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"/>
-
-
-
-
-<div align="center">
-
-<h2>List of game development projects</h2>
-</p>
-<table style="width:700px; border-collapse: collapse; text-align: left;">
-  <tr>
-    <th style="border-bottom: 2px solid #ddd; padding: 6px 12px;">Project</th>
-    <th style="border-bottom: 2px solid #ddd; padding: 6px 12px;">Period</th>
-    <th style="border-bottom: 2px solid #ddd; padding: 6px 12px;">Role</th>
-    <th style="border-bottom: 2px solid #ddd; padding: 6px 12px;">Description</th>
-  </tr>
-  <tr>
-    <td style="padding: 6px 12px;"><b>PIONER</b></td>
-    <td style="padding: 6px 12px;">Mart 2022 — Present</td>
-    <td style="padding: 6px 12px;">Middle developer</td>
-    <td style="padding: 6px 12px;">
-      <a href="https://pionergame.com">Website</a>
-    </td>
-  </tr>
-   <tr>
-    <td style="padding: 6px 12px;"><b>PIONER</b></td>
-    <td style="padding: 6px 12px;">Fev 2021 — Fev 2022</td>
-    <td style="padding: 6px 12px;">Junior developer</td>
-    <td style="padding: 6px 12px;">
-      <a href="https://pionergame.com">Website</a>
-    </td>
-</table>
-
-</div>
+* **Email:** [Garzilka@mail.ru]
+* **Telegram:** [nnomaddd]
