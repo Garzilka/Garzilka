@@ -72,6 +72,10 @@
 * **Стек:** `Unreal Engine (UE4 / UE5)` `Core C++` `Data-Driven Design`
 * Разработал модульную, масштабируемую архитектуру инвентаря для игровых систем. Фреймворк полностью опирается на data-driven паттерны, что исключает «blueprint-спагетти» и обеспечивает чистую инкапсуляцию данных.
 
+#### 🖼️ [RandomizePhoto](https://github.com/Garzilka/Nomad) — Утилита аугментации датасетов
+* **Стек:** `Modern C++` `Qt 6` `QML` `Image Processing`
+* Создал десктопное приложение для аугментации графических датасетов. Реализовал алгоритмы «умного» смешивания фото с интуитивным QML-интерфейсом и оптимизированным параллельным конвейером обработки файлов.
+
 #### 🗺️ [PlayerNavigationSystem](https://github.com/Garzilka/PlayerNavigationSystem) — Компонент продвинутой навигации
 * **Стек:** `Unreal Engine (UE4 / UE5)` `Core C++` `Gameplay Programming`
 * Создал продвинутый рантайм-компонент навигации для актеров, обеспечивающий модульный поиск путей и трекинг целей. Компонент полностью отвязан от других систем, оптимизирует обновление путей и снижает нагрузку на CPU на сложных уровнях.
@@ -79,10 +83,6 @@
 #### 🎬 [AddTrackToSequences](https://github.com/Garzilka/AddTrackToSequences) — Автоматизация Unreal Editor
 * **Стек:** `Unreal Engine (UE4 / UE5)` `Core C++` `Slate / Custom Editor Tools`
 * Разработал расширение для автоматизации рутинных задач редактора, которое автоматически внедряет кастомные треки данных напрямую в Level Sequences, сокращая время работы технических художников и аниматоров.
-
-#### 🖼️ [RandomizePhoto](https://github.com/Garzilka/Nomad) — Утилита аугментации датасетов
-* **Стек:** `Modern C++` `Qt 6` `QML` `Image Processing`
-* Создал десктопное приложение для аугментации графических датасетов. Реализовал алгоритмы «умного» смешивания фото с интуитивным QML-интерфейсом и оптимизированным параллельным конвейером обработки файлов.
 
 ---
 
@@ -142,7 +142,7 @@
 
 ### 📁 Featured Open-Source Projects
 
-#### 💬 [VOX](https://github.com) — Asynchronous Messenger Ecosystem
+#### 💬 [VOX](https://github.com/Garzilka/VOX) — Asynchronous Messenger Ecosystem
 * **Tech Stack:** `Modern C++ (C++20)` `Boost.Asio` `OpenSSL` `LiveKit SDK (WebRTC)` `Qt 6` `QML`
 * **Core Contribution:** Engineered a high-performance monorepository featuring an asynchronous server, desktop client, and launcher.
 * **Key Achievements:** 
@@ -152,25 +152,26 @@
   * Established an E2E encrypted pipeline using ECDH (P-256) for handshakes and AES-256-GCM for packet encryption.
   * Implemented a multi-threaded audio marshalling system integrating the low-level WebRTC LiveKit SDK with `QAudioSink`/`QMicCapture`.
 
-#### 🎒 [One](https://github.com) — Data-Driven Inventory Framework
+#### 🎒 [One](https://github.com/Garzilka/One) — Data-Driven Inventory Framework
 * **Tech Stack:** `Unreal Engine (UE4 / UE5)` `Core C++` `Data-Driven Design`
 * **Core Contribution:** Developed a robust, highly modular, and production-ready inventory architecture for gameplay systems.
 * **Key Achievements:** Highly optimized framework relying on data-driven design patterns to completely eliminate Blueprint spaghetti, ensuring seamless runtime scaling and clean data encapsulation.
 
-#### 🗺️ [PlayerNavigationSystem](https://github.com) — Advanced Component Pathfinding
+#### 🖼️ [RandomizePhoto](https://github.com/Garzilka/Nomad) — Smart Dataset Augmentation Utility
+* **Tech Stack:** `Modern C++` `Qt 6` `QML` `Image Processing`
+* **Core Contribution:** Built a high-performance desktop application for image dataset augmentation.
+* **Key Achievements:** Implemented a smart photo-mixing utility with an intuitive QML interface, optimizing parallel file processing pipelines for deep learning dataset preparation.
+
+#### 🗺️ [PlayerNavigationSystem](https://github.com/Garzilka/PlayerNavigationSystem) — Advanced Component Pathfinding
 * **Tech Stack:** `Unreal Engine (UE4 / UE5)` `Core C++` `Gameplay Programming`
 * **Core Contribution:** Designed an advanced gameplay navigation component providing modular tracking and pathfinding.
 * **Key Achievements:** Built a highly decoupled runtime actor component that seamlessly extends engine navigation capabilities, optimizing path updates and reducing overhead in complex levels.
 
-#### 🎬 [AddTrackToSequences](https://github.com) — Unreal Editor Automation Utility
+#### 🎬 [AddTrackToSequences](https://github.com/Garzilka/AddTrackToSequences) — Unreal Editor Automation Utility
 * **Tech Stack:** `Unreal Engine (UE4 / UE5)` `Core C++` `Slate / Custom Editor Tools`
 * **Core Contribution:** Created an workflow-automation editor tool to streamline pipeline tracking data.
 * **Key Achievements:** Spearheaded an editor extension that automates adding custom tracking data directly into Level Sequences, significantly cutting down repetitive manual labor for technical artists and animators.
 
-#### 🖼️ [RandomizePhoto](https://github.com) — Smart Dataset Augmentation Utility
-* **Tech Stack:** `Modern C++` `Qt 6` `QML` `Image Processing`
-* **Core Contribution:** Built a high-performance desktop application for image dataset augmentation.
-* **Key Achievements:** Implemented a smart photo-mixing utility with an intuitive QML interface, optimizing parallel file processing pipelines for deep learning dataset preparation.
 
 ### 💼 Connect with me
 
