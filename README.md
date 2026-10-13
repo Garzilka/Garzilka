@@ -59,7 +59,7 @@
 
 ### 📁 Избранные Open-Source Проекты
 
-#### 💬 [VOX](https://github.com) — Асинхронная экосистема мессенджера
+#### 💬 [VOX](https://github.com/Garzilka/VOX) — Асинхронная экосистема мессенджера
 * **Стек:** `Modern C++ (C++20)` `Boost.Asio` `OpenSSL` `LiveKit SDK (WebRTC)` `Qt 6` `QML`
 * Спроектировал высокопроизводительный монорепозиторий, включающий асинхронный сервер чата, десктопный клиент и лаунчер.
 * Реализовал неблокирующий сетевой движок на базе Boost.Asio C++20 корутин (`asio::awaitable`).
@@ -68,19 +68,19 @@
 * Интегрировал сквозное шифрование: хэндшейки на ECDH (P-256) и шифрование трафика на AES-256-GCM.
 * Создал многопоточный модуль маршалинга звука, связав низкоуровневый WebRTC LiveKit SDK с системными `QAudioSink`/`QMicCapture`.
 
-#### 🎒 [One](https://github.com) — Data-Driven фреймворк инвентаря
+#### 🎒 [One](https://github.com/Garzilka/One) — Data-Driven фреймворк инвентаря
 * **Стек:** `Unreal Engine (UE4 / UE5)` `Core C++` `Data-Driven Design`
 * Разработал модульную, масштабируемую архитектуру инвентаря для игровых систем. Фреймворк полностью опирается на data-driven паттерны, что исключает «blueprint-спагетти» и обеспечивает чистую инкапсуляцию данных.
 
-#### 🗺️ [PlayerNavigationSystem](https://github.com) — Компонент продвинутой навигации
+#### 🗺️ [PlayerNavigationSystem](https://github.com/Garzilka/PlayerNavigationSystem) — Компонент продвинутой навигации
 * **Стек:** `Unreal Engine (UE4 / UE5)` `Core C++` `Gameplay Programming`
 * Создал продвинутый рантайм-компонент навигации для актеров, обеспечивающий модульный поиск путей и трекинг целей. Компонент полностью отвязан от других систем, оптимизирует обновление путей и снижает нагрузку на CPU на сложных уровнях.
 
-#### 🎬 [AddTrackToSequences](https://github.com) — Автоматизация Unreal Editor
+#### 🎬 [AddTrackToSequences](https://github.com/Garzilka/AddTrackToSequences) — Автоматизация Unreal Editor
 * **Стек:** `Unreal Engine (UE4 / UE5)` `Core C++` `Slate / Custom Editor Tools`
 * Разработал расширение для автоматизации рутинных задач редактора, которое автоматически внедряет кастомные треки данных напрямую в Level Sequences, сокращая время работы технических художников и аниматоров.
 
-#### 🖼️ [RandomizePhoto](https://github.com) — Утилита аугментации датасетов
+#### 🖼️ [RandomizePhoto](https://github.com/Garzilka/Nomad) — Утилита аугментации датасетов
 * **Стек:** `Modern C++` `Qt 6` `QML` `Image Processing`
 * Создал десктопное приложение для аугментации графических датасетов. Реализовал алгоритмы «умного» смешивания фото с интуитивным QML-интерфейсом и оптимизированным параллельным конвейером обработки файлов.
 
