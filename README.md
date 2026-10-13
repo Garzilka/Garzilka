@@ -1,4 +1,4 @@
-<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/978980c5-6b85-4710-8c0d-1c6fa33eb528" />
+<img width="1700" height="460" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/c64f28d0-4323-4006-b621-fe04f32be1f3" />
 
 # Alexander Polyakov 👋
 ### Senior Unreal Engine / C++ Developer
