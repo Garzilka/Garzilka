@@ -89,7 +89,7 @@
 ### 💼 Connect with me
 
 * **Email:** [Garzilka@mail.ru]
-* **Telegram:** [nnomaddd]
+* **Telegram:** [nnomaddd](https://t.me/nnomaddd)
 
 </details>
 
@@ -175,6 +175,7 @@
 ---
 
 ### 💼 Контакты для связи:
-* **Telegram:** [@nnomaddd](https://t.me)
+
 * **Email:** Garzilka@mail.ru
+* **Telegram:** [nnomaddd](https://t.me/nnomaddd)
 </details>
