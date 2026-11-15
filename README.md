@@ -5,11 +5,11 @@
 ---
 
 <details>
-<summary><b>🌍 Click here to view in ENGLISH</b></summary>
+<summary><b>🌍 ENG </b></summary>
 
 > I am an experienced software engineer specializing in **Unreal Engine (C++ / Blueprints)**, gameplay systems architecture, and tool development. With a strong track record of bringing features from initial architectural design to production-ready implementation, I focus on writing clean, scalable, and performance-optimized code — without blueprint spaghetti. Beyond game development, I actively engineer low-level C++ systems involving asynchronous networking, multithreading, and WebRTC protocols.
 
-### 🛠️ Tech Stack & Expertise
+### 🛠️ Tech Stack
 
 #### Core C++ & Systems Engineering
 * **Language Standards:** Deep expertise in Modern C++ (C++17, C++20) and robust utilization of the STL.
@@ -94,11 +94,11 @@
 </details>
 
 <details open>
-<summary><b>🌍 Нажмите здесь для просмотра на РУССКОМ ЯЗЫКЕ</b></summary>
+<summary><b>🌍 RU </b></summary>
 
 > Я опытный инженер-программист, специализирующийся на **Unreal Engine (C++ / Blueprints)**, архитектуре игровых систем и разработке инструментов автоматизации редактора. Имею успешный опыт доведения сложных систем от начального проектирования до production-ready реализации. Мой главный фокус — написание чистого, масштабируемого и оптимизированного по производительности кода без «blueprint-спагетти». Помимо игровой индустрии, активно развиваюсь в системном программировании на C++ (асинхронные сети, многопоточность, WebRTC).
 
-### 🛠️ Технологический стек и экспертиза
+### 🛠️ Технологический стек
 
 #### Разработка на C++ и системное программирование (Core C++ & Systems)
 * **Языковые стандарты:** Глубокое знание современного C++ (C++17, C++20), STL.
